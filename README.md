@@ -35,7 +35,3 @@
 
 <br/>
 
-<p align="center">
-  I build clean, intuitive, intelligent systems —<br/>
-  AI agents that think, assist, and feel human.
-</p>
