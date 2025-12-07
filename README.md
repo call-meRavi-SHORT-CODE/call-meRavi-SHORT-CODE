@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ravikrishna 👋</h1>
+<h1 align="center">Hi, I'm Ravikrishna ✨</h1>
 
 <p align="center">
-  <strong>AI Engineer crafting intelligent, thoughtful AI Agents.</strong>
+  <strong>AI Engineer with a passion for building AI Agents.</strong>
 </p>
 
 <br/>
