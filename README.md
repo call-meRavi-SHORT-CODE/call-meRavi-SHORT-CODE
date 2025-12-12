@@ -35,5 +35,5 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=call-meRavi-SHORT-CODE&color=blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0000-blue)
 
